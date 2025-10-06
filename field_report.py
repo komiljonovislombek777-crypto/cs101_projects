@@ -1,5 +1,13 @@
+print("=============================")
 print("XENO-BIOLOGY FIELD REPORT")
-creature_name=input("enter Creature Name:")
-home_planet=input("enter home planet:")
-primary_diet=input("enter creature`s name:")
-print("Scientific Designation " + creature_name + " " + home_planet + " " + primary_diet)
+print("=============================")
+lead_scientist = input("Lead Scientist's Name: ")
+discovery_year = input("Discovery Year: ")
+print("------------------------------")
+creature_name=input("Creature Name:")
+home_planet=input("Home planet:")
+primary_diet=input("Creature`s name:")
+
+
+print("Scientific Designation :" + creature_name + "-[] " + home_planet + "-[] " + primary_diet)
+print("====================================================================")
