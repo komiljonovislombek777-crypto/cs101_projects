@@ -1,0 +1,5 @@
+print("XENO-BIOLOGY FIELD REPORT")
+creature_name=input("enter Creature Name:")
+home_planet=("enter home planet:")
+primary_diet=input("enter creature`s name:")
+print("Scientific Designation " + creature_name + " " + home_planet + " " + primary_diet)
