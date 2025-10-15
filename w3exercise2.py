@@ -1,6 +1,5 @@
-#--- Running Total Calculator ---
 print("--- Running Total Calculator ---")
-#Enter numbers to add them up. Type 'done' to see the total.
+
 print("Enter numbers to add them up. Type 'done' to see the total.")
 total=0
 while True:
